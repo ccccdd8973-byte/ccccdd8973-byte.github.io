@@ -10,5 +10,5 @@
 * 자료구조 및 알고리즘
 
 ### 📧 연락처
-[제 GitHub 방문하기](https://github.com/<사용자이름>)
-이메일: example@school.ac.kr
+[제 GitHub 방문하기](https://github.com/<윤수준>)
+이메일: ccccdd8973@gmail.com
