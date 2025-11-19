@@ -396,7 +396,7 @@ class="profile-img">
             <p class="job-title">동의대 재학생</p>
         </section>
 
-        /*<!— 소개 섹션 —>*/
+     
         <section class="section">
             <h2>💁‍♀️ 자기소개</h2>
             <p class="intro-text">
@@ -408,44 +408,43 @@ class="profile-img">
             </p>
         </section>
 
-/*<!— 기술 스택 섹션 —>*/
         <section class="section">
             <h2>🛠️ 기술 스택</h2>
             <div class="skills-grid">
                 <div class="skill-item">
-                    <strong>HTML:</strong> 웹 페이지 구조 설계 및 시맨틱 마크업
+                    <strong>HTML:</strong> 자기소개서 웹사이트를 개발
                 </div>
                 <div class="skill-item">
-                    <strong>CSS:</strong> 스타일링 및 반응형 디자인 구현
+                    <strong>C++:</strong> 메모리 관리, 객체 지향 프로그래밍 활용
                 </div>
                 <div class="skill-item">
-                    <strong>JavaScript:</strong> 동적 웹 페이지 및 인터랙션 구현
+                    <strong>C#:</strong> 객체 지향 프로그래밍, 오픈소스 활용
                 </div>
                 <div class="skill-item">
-                    <strong>GitHub:</strong> 버전 관리 및 협업 도구 활용
+                    <strong>개발엔진:</strong> Unity, Unreal 활용
                 </div>
             </div>
         </section>
 
-        /*<!— 프로젝트 섹션 —>*/
+    
         <section class="section">
             <h2>📂 프로젝트</h2>
             <div class="projects-grid">
                 <div class="project">
                     <h3>🌐 개인 포트폴리오 웹사이트</h3>
                     <div class="project-meta">
-                        <span>📅 2024.10 - 2024.11</span>
-                        <span>💻 HTML, CSS, JavaScript</span>
+                        <span>📅 2025.11.19 - </span>
+                        <span>💻 C, C++, Godot</span>
                     </div>
                     <p>
                         개인 포트폴리오를 소개하는 반응형 웹사이트입니다. 
                     </p>
                     <div class="project-features">
-                        <p><strong>주요 기능:</strong></p>
+                        <p><strong>주요 포트폴리오:</strong></p>
                         <ul>
-                            <li>반응형 디자인으로 모바일 최적화</li>
-                            <li>부드러운 스크롤 애니메이션</li>
-                            <li>프로젝트 갤러리 구현</li>
+                            <li>게임 기획 포트폴리오</li>
+                            <li>게임 개발 포트폴리오</li>
+                            <li>자료 출처</li>
                         </ul>
                     </div>
                 </div>
@@ -464,11 +463,11 @@ class="profile-img">
                 </div>
                 <div class="contact-item">
                     <p><strong>🐙 GitHub</strong></p>
-                    <p><a href="https://github.com/kimdev" target="_blank">github.com/kimdev</a></p>
+                    <p><a href="https://github.com/ccccdd8973" target="_blank">github.com/kimdev</a></p>
                 </div>
                 <div class="contact-item">
                     <p><strong>📝 블로그</strong></p>
-                    <p><a href="https://kimdev.blog" target="_blank">kimdev.blog</a></p>
+                    <p><a href="https://ccccdd8973.blog" target="_blank">kimdev.blog</a></p>
                 </div>
             </div>
         </section>
