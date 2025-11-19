@@ -395,21 +395,19 @@
             <p class="job-title">동의대 재학생</p>
         </section>
 
-        #<!— 소개 섹션 —>
+        /*<!— 소개 섹션 —>*/
         <section class="section">
             <h2>💁‍♀️ 자기소개</h2>
             <p class="intro-text">
-                안녕하세요! 웹 개발에 열정을 가진 윤수준준입니다. 
-                사용자 친화적인 웹사이트를 만들기 위해 항상 노력하고 있으며, 
-                새로운 기술을 배우는 것을 즐깁니다.
+                안녕하세요! 게임 개발에 열정을 가진 윤수준입니다. 
+                창의적인 게임을 생각하고 개발하기 위해서 노력하고 있습니다.
             </p>
             <p class="intro-text">
-                HTML, CSS, JavaScript를 활용한 프론트엔드 개발에 관심이 많으며, 
-                깔끔하고 직관적인 디자인을 추구합니다.
+                C언어, C++ 을 배우고 있으며 유니티, 언리얼의 기초를 다룰 준비를 하고 있습니다.
             </p>
         </section>
 
-        # <!— 기술 스택 섹션 —>
+        /*<!— 기술 스택 섹션 —>*/
         <section class="section">
             <h2>🛠️ 기술 스택</h2>
             <div class="skills-grid">
@@ -428,7 +426,7 @@
             </div>
         </section>
 
-        <!— 프로젝트 섹션 —>
+        /*<!— 프로젝트 섹션 —>*/
         <section class="section">
             <h2>📂 프로젝트</h2>
             <div class="projects-grid">
