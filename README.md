@@ -390,7 +390,8 @@
     <div class="container">
        #<!— 프로필 섹션 —>
         <section class="header-section">
-            <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6Tvhe880B-Uny7vOaHxflwsuf1VoMyTpyQxVYhZoaYR69Td-EvrT1EzM0ODGL3UKzBledIh__o-c6IzNNO96LS6AFUp2j6C-c9_yvAQ_&s=10](https://www.bing.com/ck/a?!&&p=cb43e514fb440e15e340dede003206fae78801f7111d61d203b40c23734e9a5cJmltdHM9MTc2MzQyNDAwMA&ptn=3&ver=2&hsh=4&fclid=13ccfbad-4333-63ad-0d5c-edcc429e624c&u=a1L2ltYWdlcy9zZWFyY2g_cT0lZWMlYmYlYmMlZWMlYjklYjQrJWVjJTlkJWI0JWViJWFmJWI4JWVjJWE3JTgwJmlkPTQwRjIxRUU2MzZEMzYxOTM5MTU0NDc4NUM5MkRFMzg5MTY1M0E2RUImRk9STT1JQUNGSVI&ntb=1)"width="100" alt="프로필 사진" class="profile-img">
+            <img src="[이미지경로](https://www.bing.com/ck/a?!&&p=5c74b4ecaa812c0fce97cc4f9dee9aed61aebf295b09d7175d5f4a6f03757615JmltdHM9MTc2MzQyNDAwMA&ptn=3&ver=2&hsh=4&fclid=13ccfbad-4333-63ad-0d5c-edcc429e624c&u=a1L2ltYWdlcy9zZWFyY2g_cT0lZWMlYmYlYmMlZWMlYjklYjQrJWVjJTlkJWI0JWViJWFmJWI4JWVjJWE3JTgwJmlkPThFQjQ1QTYwRjYxNjM3RjZGOEE3NDZDMzEyQjU4NjBGN0Y2REQwQTkmRk9STT1JQUNGSVI&ntb=1).jpg" alt="프로필 사" width="100" height="150">
+class="profile-img">
             <h1>윤수준</h1>
             <p class="job-title">동의대 재학생</p>
         </section>
@@ -403,7 +404,7 @@
                 창의적인 게임을 생각하고 개발하기 위해서 노력하고 있습니다.
             </p>
             <p class="intro-text">
-                C언어, C++ 을 배우고 있으며 유니티, 언리얼의 기초를 다룰 준비를 하고 있습니다.
+                C언어, C++ 을 배우고 있으며 유니티, 언리얼에 대하여 공부하고 있습니다.
             </p>
         </section>
 
@@ -438,7 +439,6 @@
                     </div>
                     <p>
                         개인 포트폴리오를 소개하는 반응형 웹사이트입니다. 
-                        깔끔한 디자인과 직관적인 네비게이션을 구현했습니다.
                     </p>
                     <div class="project-features">
                         <p><strong>주요 기능:</strong></p>
@@ -449,7 +449,6 @@
                         </ul>
                     </div>
                 </div>
-        </section>
 
         <!-- 연락처 섹션 -->
         <section class="section">
