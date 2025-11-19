@@ -449,47 +449,6 @@
                         </ul>
                     </div>
                 </div>
-
-                <div class="project">
-                    <h3>🍕 맛집 추천 페이지</h3>
-                    <div class="project-meta">
-                        <span>📅 2024.09 - 2024.10</span>
-                        <span>💻 HTML, CSS</span>
-                    </div>
-                    <p>
-                        지역별 맛집을 소개하는 정적 웹페이지입니다. 
-                        사용자가 쉽게 정보를 찾을 수 있도록 카테고리별로 분류했습니다.
-                    </p>
-                    <div class="project-features">
-                        <p><strong>주요 기능:</strong></p>
-                        <ul>
-                            <li>카테고리별 맛집 분류</li>
-                            <li>이미지 갤러리 구현</li>
-                            <li>리뷰 시스템 디자인</li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="project">
-                    <h3>📝 투두 리스트 앱</h3>
-                    <div class="project-meta">
-                        <span>📅 2024.08 - 2024.09</span>
-                        <span>💻 HTML, CSS, JavaScript</span>
-                    </div>
-                    <p>
-                        일정 관리를 위한 간단한 투두 리스트 웹 애플리케이션입니다. 
-                        할 일 추가, 완료, 삭제 기능을 구현했습니다.
-                    </p>
-                    <div class="project-features">
-                        <p><strong>주요 기능:</strong></p>
-                        <ul>
-                            <li>할 일 추가/수정/삭제</li>
-                            <li>완료 상태 체크</li>
-                            <li>로컬 스토리지 활용한 데이터 저장</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
         </section>
 
         <!-- 연락처 섹션 -->
