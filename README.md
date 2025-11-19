@@ -390,7 +390,7 @@
     <div class="container">
        #<!— 프로필 섹션 —>
         <section class="header-section">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6Tvhe880B-Uny7vOaHxflwsuf1VoMyTpyQxVYhZoaYR69Td-EvrT1EzM0ODGL3UKzBledIh__o-c6IzNNO96LS6AFUp2j6C-c9_yvAQ_&s=10"width="100" alt="프로필 사진" class="profile-img">
+            <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6Tvhe880B-Uny7vOaHxflwsuf1VoMyTpyQxVYhZoaYR69Td-EvrT1EzM0ODGL3UKzBledIh__o-c6IzNNO96LS6AFUp2j6C-c9_yvAQ_&s=10](https://www.bing.com/ck/a?!&&p=cb43e514fb440e15e340dede003206fae78801f7111d61d203b40c23734e9a5cJmltdHM9MTc2MzQyNDAwMA&ptn=3&ver=2&hsh=4&fclid=13ccfbad-4333-63ad-0d5c-edcc429e624c&u=a1L2ltYWdlcy9zZWFyY2g_cT0lZWMlYmYlYmMlZWMlYjklYjQrJWVjJTlkJWI0JWViJWFmJWI4JWVjJWE3JTgwJmlkPTQwRjIxRUU2MzZEMzYxOTM5MTU0NDc4NUM5MkRFMzg5MTY1M0E2RUImRk9STT1JQUNGSVI&ntb=1)"width="100" alt="프로필 사진" class="profile-img">
             <h1>윤수준</h1>
             <p class="job-title">동의대 재학생</p>
         </section>
@@ -407,7 +407,7 @@
             </p>
         </section>
 
-        /*<!— 기술 스택 섹션 —>*/
+/*<!— 기술 스택 섹션 —>*/
         <section class="section">
             <h2>🛠️ 기술 스택</h2>
             <div class="skills-grid">
