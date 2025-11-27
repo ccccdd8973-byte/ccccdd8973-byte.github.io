@@ -391,7 +391,6 @@
        #<!— 프로필 섹션 —>
         <section class="header-section">
             <img src="https://www.chosun.com/resizer/v2/52PNRX6QMNCRDD3QBAFB6XJJ6M.jpg?auth=07572c96c03a4e4e03b9e91fe805e11490b7e0b30ecd85976a5cc4959502494f&width=700&height=701&smart=true" alt="프로필 사" width="100" height="150">
-class="profile-img">
             <h1>윤수준</h1>
             <p class="job-title">동의대 재학생</p>
         </section>
