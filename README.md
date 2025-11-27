@@ -390,7 +390,7 @@
     <div class="container">
        #<!— 프로필 섹션 —>
         <section class="header-section">
-            <img src="[이미지경로](https://www.bing.com/ck/a?!&&p=5c74b4ecaa812c0fce97cc4f9dee9aed61aebf295b09d7175d5f4a6f03757615JmltdHM9MTc2MzQyNDAwMA&ptn=3&ver=2&hsh=4&fclid=13ccfbad-4333-63ad-0d5c-edcc429e624c&u=a1L2ltYWdlcy9zZWFyY2g_cT0lZWMlYmYlYmMlZWMlYjklYjQrJWVjJTlkJWI0JWViJWFmJWI4JWVjJWE3JTgwJmlkPThFQjQ1QTYwRjYxNjM3RjZGOEE3NDZDMzEyQjU4NjBGN0Y2REQwQTkmRk9STT1JQUNGSVI&ntb=1).jpg" alt="프로필 사" width="100" height="150">
+            <img src="" alt="프로필 사" width="100" height="150">
 class="profile-img">
             <h1>윤수준</h1>
             <p class="job-title">동의대 재학생</p>
